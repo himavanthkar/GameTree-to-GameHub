@@ -1,6 +1,6 @@
 # Web Development Final Project - *GameHub*
 
-Submitted by: **Abhil**
+Submitted by: **himavanth karpurapu**
 
 This web app: **GameHub is a comprehensive gaming forum where users can create posts, discuss their favorite games, share experiences, and engage with the gaming community. The app focuses on popular games like Spider-Man, GTA, and Tomb Raider, providing a platform for gamers to connect and share their passion.**
 
