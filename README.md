@@ -1,4 +1,4 @@
-# Web Development Final Project - *GameHub*
+# GameTree or - *GameHub*
 
 Submitted by: **himavanth karpurapu**
 
